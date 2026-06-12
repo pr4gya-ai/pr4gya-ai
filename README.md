@@ -1,7 +1,34 @@
 ## Hi there 👋
 
-# 💫 About Me:
-🔭 I’m currently working on<br>Building full-stack web applications using the MERN stack, with a strong focus on React.js–based UI, clean component architecture, and user-friendly design. I’m also developing AI-powered projects like a chat application integrated with modern APIs.<br><br>🤝 I’m looking to collaborate on<br>Frontend or full-stack projects involving React.js, JavaScript, Node.js, MongoDB, or beginner-friendly open-source contributions where I can learn and add value.<br><br>🧠 I’m looking for help with<br>Advanced backend concepts, scalable system design, and best practices for building production-ready full-stack applications.<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms, backend development with Node.js and Express.js, MongoDB optimization, and improving overall full-stack architecture skills.<br><br>💬 Ask me about<br>React.js, MERN stack basics, frontend development, building projects from scratch, integrating APIs, and getting started as a fresher in web development.<br><br>⚡ Fun fact<br>I enjoy learning new technologies by building real projects—even if I’ve never used the tech before, I love figuring it out step by step 🚀
+# 💫 About Me
+
+🔭 **Currently Building**
+Full-stack web applications using the MERN stack, focusing on scalable architecture, responsive UI development, and real-world problem-solving. I enjoy creating projects that combine modern web technologies with AI-powered features.
+
+📱 **Currently Learning**
+React Native and TypeScript by building hands-on projects. My goal is to become a versatile developer capable of building high-quality applications for both **web and mobile platforms**.
+
+🌱 **Growing My Skills In**
+
+* Data Structures & Algorithms (DSA)
+* Backend Development with Node.js & Express.js
+* MongoDB Performance Optimization
+* TypeScript
+* React Native
+* Full-Stack System Design
+
+🤝 **Open to Collaborate On**
+Frontend, full-stack, mobile development, and beginner-friendly open-source projects involving React, React Native, JavaScript, TypeScript, Node.js, and MongoDB.
+
+💬 **Ask Me About**
+React.js, MERN Stack, API Integration, JavaScript, Full-Stack Development, Project Building, and navigating the journey from student to software developer.
+
+🚀 **Current Goal**
+To become a skilled Full-Stack Engineer with expertise in both web and mobile development while building impactful products that solve real-world problems.
+
+⚡ **Fun Fact**
+I learn best by building. If a technology is new to me, you'll probably find me creating a project with it before finishing the documentation!
+
 
 
 ## 🌐 Socials:
