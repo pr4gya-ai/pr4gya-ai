@@ -14,7 +14,6 @@ React Native and TypeScript by building hands-on projects. My goal is to become 
 * Backend Development with Node.js & Express.js
 * MongoDB Performance Optimization
 * TypeScript
-* React Native
 * Full-Stack System Design
 
 🤝 **Open to Collaborate On**
