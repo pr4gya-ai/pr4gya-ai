@@ -2,17 +2,17 @@
 
 ### 🚀 Full Stack MERN Developer | AI Enthusiast | Open Source Learner
 
-I am a Full Stack Developer with hands-on experience in building scalable web applications and AI-powered products[cite: 1]. I specialize in the MERN stack and integrating LLMs to solve real-world problems[cite: 1]. Passionate about clean code, modern UI/UX, backend architecture, and continuous learning[cite: 1].
+I am a Full Stack Developer with hands-on experience in building scalable web applications and AI-powered products. I specialize in the MERN stack and integrating LLMs to solve real-world problems. Passionate about clean code, modern UI/UX, backend architecture, and continuous learning.
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🔭 **Currently working on:** AI-powered MERN Stack Applications[cite: 1]
-* 🌱 **Currently learning:** System Design, TypeScript, AWS Cloud, Docker, CI/CD, and AI Agents[cite: 1]
+* 🔭 **Currently working on:** AI-powered MERN Stack Applications
+* 🌱 **Currently learning:** System Design, TypeScript, AWS Cloud, Docker, CI/CD, and AI Agents
 * 👯 **Looking to collaborate on:** Open Source, MERN Stack, AI & SaaS Projects
-* 💼 **Actively looking for:** Frontend, Full Stack MERN, and Software Developer opportunities[cite: 1]
-* 💬 **Ask me about:** JavaScript, TypeScript, React.js, Node.js, Express.js, MongoDB, REST APIs, Tailwind CSS, Gemini API, Groq API, Git & GitHub[cite: 1]
+* 💼 **Actively looking for:** Frontend, Full Stack MERN, and Software Developer opportunities
+* 💬 **Ask me about:** JavaScript, TypeScript, React.js, Node.js, Express.js, MongoDB, REST APIs, Tailwind CSS, Gemini API, Groq API, Git & GitHub
 * ⚡ **Fun fact:** I enjoy turning ideas into AI-powered web applications that solve practical problems!
 
 ---
@@ -80,16 +80,16 @@ I am a Full Stack Developer with hands-on experience in building scalable web ap
 ## 🚀 Featured Projects
 
 ### 🤖 Cognivo AI
-> Full MERN stack AI platform converting any topic into structured, exam-ready notes, eliminating manual note-making for students[cite: 1]. Integrated with Gemini API and Stripe payment processing[cite: 1].
-* **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Gemini API, Stripe[cite: 1]
+> Full MERN stack AI platform converting any topic into structured, exam-ready notes, eliminating manual note-making for students. Integrated with Gemini API and Stripe payment processing.
+* **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Gemini API, Stripe
 
 ### 📧 InboxCraft
-> AI cold-outreach generator converting prompts into subject lines, emails, LinkedIn DMs, and follow-ups[cite: 1]. Features structured Groq LLM prompts, JWT + OTP security, and MongoDB persistence[cite: 1].
-* **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Groq API, Render[cite: 1]
+> AI cold-outreach generator converting prompts into subject lines, emails, LinkedIn DMs, and follow-ups. Features structured Groq LLM prompts, JWT + OTP security, and MongoDB persistence.
+* **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Groq API, Render
 
 ### 🌐 AI Webpage Summarizer
-> Chrome Extension that generates instant AI summaries of web content using content scripts and Gemini API for real-time parsing with client-side caching[cite: 1].
-* **Tech Stack:** JavaScript, Chrome Extension API, Google Gemini API[cite: 1]
+> Chrome Extension that generates instant AI summaries of web content using content scripts and Gemini API for real-time parsing with client-side caching.
+* **Tech Stack:** JavaScript, Chrome Extension API, Google Gemini API
 
 ### 🛒 MERN E-Commerce Platform
 > *(In Development)* Complete AI-powered e-commerce platform with User Authentication, Admin Dashboard, AI Product Recommendations, Cart, Payments, and Responsive UI.
@@ -98,22 +98,21 @@ I am a Full Stack Developer with hands-on experience in building scalable web ap
 
 ## 🏆 Certifications
 
-* ☁️ **AWS Certified Cloud Practitioner** – Amazon Web Services (AWS)[cite: 1]
-* 🤖 **Agents and Workflows** – OpenAI Academy[cite: 1]
-* 💼 **Software Engineering Job Simulation** – JPMorgan Chase & Co. (via Forage)[cite: 1]
+* ☁️ **AWS Certified Cloud Practitioner** – Amazon Web Services (AWS)
+* 🤖 **Agents and Workflows** – OpenAI Academy
+* 💼 **Software Engineering Job Simulation** – JPMorgan Chase & Co. (via Forage)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pr4gya-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pragya's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr4gya-ai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pr4gya-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pragya's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr4gya-ai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pr4gya-ai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
