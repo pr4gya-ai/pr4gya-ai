@@ -103,17 +103,19 @@ I am a Full Stack Developer with hands-on experience in building scalable web ap
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pr4gya-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pragya's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr4gya-ai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pr4gya-ai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pr4gya-ai&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pr4gya-ai&theme=tokyonight" width="48%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pr4gya-ai&theme=tokyonight" width="48%" />
+
+</div>
 
 ## 🌐 Connect with Me
 
