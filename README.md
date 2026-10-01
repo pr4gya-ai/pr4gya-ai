@@ -91,10 +91,8 @@ I am a Full Stack Developer with hands-on experience in building scalable web ap
 > Chrome Extension that generates instant AI summaries of web content using content scripts and Gemini API for real-time parsing with client-side caching.
 * **Tech Stack:** JavaScript, Chrome Extension API, Google Gemini API
 
-### 🛒 MERN E-Commerce Platform
-> *(In Development)* Complete AI-powered e-commerce platform with User Authentication, Admin Dashboard, AI Product Recommendations, Cart, Payments, and Responsive UI.
-
----
+### 📱 Social Media Automation App (In development phase)
+> A full-stack social media management platform for connecting multiple accounts, creating posts, and scheduling content across platforms from one dashboard.
 
 ## 🏆 Certifications
 
